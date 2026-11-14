@@ -1,0 +1,110 @@
+/* ============================================================
+   Custom Cursor
+   ============================================================ */
+
+.cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s cubic-bezier(0.22, 0.61, 0.36, 1),
+    opacity 0.2s ease, width 0.2s ease, height 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+  will-change: transform;
+  opacity: 0;
+  border: 2px solid var(--accent);
+  border-radius: 50%;
+  background: transparent;
+}
+
+.cursor.is-visible {
+  opacity: 1;
+}
+
+.cursor::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 4px;
+  height: 4px;
+  background: var(--accent);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+}
+
+.cursor.is-hover {
+  opacity: 0;
+}
+
+.cursor.is-clicking {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cursor {
+    display: none;
+  }
+}
+
+@media (hover: none), (pointer: coarse) {
+  .cursor {
+    display: none;
+  }
+}
+
+/* When custom cursor is disabled, show native cursor on interactive elements */
+html.cursor-disabled a,
+html.cursor-disabled button,
+html.cursor-disabled .btn,
+html.cursor-disabled .nav-link,
+html.cursor-disabled .filter-btn,
+html.cursor-disabled .lang-btn,
+html.cursor-disabled .icon-btn,
+html.cursor-disabled .project-card,
+html.cursor-disabled .skill-card,
+html.cursor-disabled .timeline-card,
+html.cursor-disabled .contact-link,
+html.cursor-disabled .social-link,
+html.cursor-disabled [data-theme-toggle],
+html.cursor-disabled [data-nav-toggle],
+html.cursor-disabled input,
+html.cursor-disabled textarea,
+html.cursor-disabled select,
+html.cursor-disabled [download] {
+  cursor: auto;
+}
+
+/* When hovering interactive elements, show native pointer cursor and hide custom cursor */
+html.cursor-hover a,
+html.cursor-hover button,
+html.cursor-hover .btn,
+html.cursor-hover .nav-link,
+html.cursor-hover .filter-btn,
+html.cursor-hover .lang-btn,
+html.cursor-hover .icon-btn,
+html.cursor-hover .project-card,
+html.cursor-hover .skill-card,
+html.cursor-hover .timeline-card,
+html.cursor-hover .contact-link,
+html.cursor-hover .social-link,
+html.cursor-hover [data-theme-toggle],
+html.cursor-hover [data-nav-toggle],
+html.cursor-hover input,
+html.cursor-hover textarea,
+html.cursor-hover select,
+html.cursor-hover [download] {
+  cursor: pointer;
+}
+
+/* Default: hide native cursor on interactive elements so custom cursor shows */
+a, button, .btn, .nav-link, .filter-btn, .lang-btn, .icon-btn,
+.project-card, .skill-card, .timeline-card, .contact-link,
+.social-link, [data-theme-toggle], [data-nav-toggle],
+input, textarea, select, [download] {
+  cursor: none;
+}

@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Aymen Smida — Développeur Full Stack Senior (Laravel)",
+    "description": "Aymen Smida est développeur full stack senior avec plus de 7 ans d'expérience dans la création d'applications web performantes avec PHP, Laravel, Livewire, Vue.js et MySQL."
+  },
+  "common": {
+    "skip": "Aller au contenu",
+    "themeToLight": "Passer au thème clair",
+    "themeToDark": "Passer au thème sombre",
+    "language": "Langue",
+    "backToTop": "Retour en haut",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "basedIn": "Basé à",
+    "location": "Mahdia, Tunisie"
+  },
+  "nav": {
+    "primary": "Navigation principale",
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "education": "Formation",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Fermer le menu"
+  },
+  "hero": {
+    "eyebrow": "Développeur Full Stack Senior · Laravel",
+    "titleLead": "Je construis des applications web qui restent",
+    "titleEm": "rapides sous pression",
+    "titleEnd": ".",
+    "intro": "Je suis Aymen Smida, développeur full stack senior avec plus de 7 ans d'expérience dans l'écosystème PHP/Laravel. Je construis des applications performantes, conçois des API REST propres et crée des interfaces qui restent rapides en conditions réelles.",
+    "ctaPrimary": "Voir mes projets",
+    "ctaSecondary": "Télécharger le CV",
+    "photo": { "alt": "Portrait d'Aymen Smida" },
+    "card": {
+      "role": "Développeur Full Stack Senior",
+      "expLabel": "Expérience",
+      "exp": "7+ ans",
+      "focusLabel": "Spécialité",
+      "focus": "Performance backend et architecture d'API",
+      "remote": "Collaboration à distance avec des équipes internationales"
+    },
+    "stats": [
+      { "value": "7+", "label": "Années d'expérience" },
+      { "value": "6", "label": "Projets phares" },
+      { "value": "3", "label": "Langues parlées" },
+      { "value": "v7–v11", "label": "Versions de Laravel" }
+    ]
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Une ingénierie qui équilibre performance, clarté et maintenabilité.",
+    "p1": "Je suis développeur full stack senior spécialisé dans l'écosystème PHP/Laravel. Depuis plus de 7 ans, j'ai travaillé en agence, en freelance et au sein d'équipes distantes internationales, en livrant des applications web qui doivent rester rapides et fiables en production.",
+    "p2": "Mon travail se situe entre l'architecture backend et le soin apporté à l'interface : modélisation des données relationnelles, conception d'API REST sécurisées et interfaces réactives avec Livewire et Vue.js. Je mesure avant d'optimiser — cache Redis, traitements asynchrones et SQL qui reste prévisible à mesure que les données grandissent.",
+    "p3": "J'ai collaboré avec des clients et des équipes pluridisciplinaires en Arabie saoudite et en Tunisie, et je peux prendre en charge une fonctionnalité de l'analyse technique jusqu'aux tests, au déploiement et aux itérations.",
+    "philosophyTitle": "Ma façon de travailler",
+    "philosophy": "Mesurer d'abord, optimiser ensuite. Garder un modèle de données honnête, une API prévisible et une interface assez rapide pour que personne n'ait à y penser.",
+    "doTitle": "Ce que je fais",
+    "do": [
+      "Architecture backend avec Laravel et PHP 8",
+      "Conception d'API REST et intégrations tierces",
+      "Optimisation des performances : Redis, files d'attente et SQL",
+      "Interfaces à composants avec Livewire et Vue.js"
+    ],
+    "strengthsTitle": "Points forts",
+    "strengths": [
+      "Résolution de problèmes",
+      "Communication à distance",
+      "Collaboration pluridisciplinaire",
+      "Gestion du temps",
+      "Agile / Scrum"
+    ]
+  },
+  "skills": {
+    "eyebrow": "Expertise",
+    "title": "Compétences et technologies",
+    "intro": "La stack que j'utilise pour concevoir, développer et livrer des applications web en production.",
+    "groups": {
+      "backend": "Backend et architecture",
+      "frontend": "Frontend et interface",
+      "data": "Bases de données et performance",
+      "devops": "DevOps et méthodologies",
+      "soft": "Méthodes de travail"
+    }
+  },
+  "experience": {
+    "eyebrow": "Expérience",
+    "title": "Expérience professionnelle",
+    "intro": "Sept ans à construire et maintenir des produits web, du remplacement de systèmes existants au travail de plateforme à distance.",
+    "roles": {
+      "tarqueem": {
+        "period": "11/2023 — Aujourd'hui",
+        "location": "Arabie saoudite · Télétravail",
+        "position": "Développeur Full Stack Senior",
+        "bullets": [
+          "Conception d'applications web dynamiques et interactives avec Laravel 10/11 et Livewire.",
+          "Mise en place de Redis pour le cache et les files de tâches asynchrones, améliorant sensiblement la vitesse d'exécution du serveur.",
+          "Création d'interfaces responsives gérant les imports CSV en masse et des graphiques de données en temps réel avec Highcharts.",
+          "Développement et consommation d'API REST sécurisées pour intégrer des services tiers.",
+          "Application de tests PHPUnit pour garantir la stabilité des environnements de production."
+        ]
+      },
+      "freelance": {
+        "period": "12/2021 — 10/2023",
+        "location": "Mahdia, Tunisie",
+        "position": "Développeur Full Stack Web Freelance",
+        "company": "Indépendant",
+        "bullets": [
+          "Analyse des besoins techniques et collaboration directe avec les clients pour livrer des solutions sur mesure.",
+          "Développement d'applications full stack : backend PHP/Laravel et interfaces réactives avec Vue.js.",
+          "Intégration d'API externes : Telegram Bot API, Google Maps API et passerelles de paiement.",
+          "Refonte de code existant et optimisation de requêtes MySQL complexes pour une exécution plus rapide."
+        ]
+      },
+      "seabels": {
+        "period": "01/2019 — 11/2021",
+        "location": "Mahdia, Tunisie",
+        "position": "Développeur Web",
+        "bullets": [
+          "Conception et déploiement d'applications web complètes en PHP et MySQL pour remplacer des tableurs complexes.",
+          "Structuration de schémas de bases de données relationnelles et optimisation de requêtes SQL complexes.",
+          "Développement de tableaux de bord responsives et de modules d'export PDF/Excel automatisés."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Réalisations",
+    "title": "Projets en vedette",
+    "intro": "Une sélection de plateformes et d'applications conçues et développées au cours des dernières années.",
+    "filters": {
+      "all": "Tous",
+      "laravel": "Laravel",
+      "vue": "Vue.js",
+      "php": "PHP",
+      "mysql": "MySQL"
+    },
+    "features": "Fonctionnalités clés",
+    "live": "Démo en ligne",
+    "empty": "Aucun projet ne correspond à ce filtre.",
+    "osool": {
+      "name": "Osool",
+      "tagline": "Plateforme de gestion des associations de copropriétaires",
+      "description": "Un portail destiné aux associations de propriétaires pour simplifier la gestion des immeubles, le partage de documents (contrats de maintenance, garanties), le suivi des opérations et la répartition de la maintenance entre prestataires. Développé en équipe.",
+      "highlights": [
+        "Gestion des immeubles et des équipements communs",
+        "Partage de contrats et de documents",
+        "Suivi des opérations et des demandes de maintenance",
+        "Affectation des prestataires de services"
+      ]
+    },
+    "xbootkillers": {
+      "name": "XBootkillers",
+      "tagline": "Protection anti-bots et géolocalisation IP",
+      "description": "Une solution de géolocalisation IP et de détection de bots qui permet aux clients de bloquer les bots, de restreindre l'accès géographique et de rediriger les visiteurs via des fichiers d'intégration côté serveur légers.",
+      "highlights": [
+        "Détection et blocage des bots",
+        "Filtrage par géolocalisation IP",
+        "Redirection des visiteurs",
+        "Intégration côté serveur légère"
+      ]
+    },
+    "mecamarker": {
+      "name": "MecaMarker",
+      "tagline": "Marketplace de pièces détachées automobiles",
+      "description": "Une plateforme automobile tunisienne connectée à des API de mécaniciens internationales, avec recherche de pièces détachées, marketplace de vente de voitures et interfaces d'approvisionnement B2B pour les fournisseurs.",
+      "highlights": [
+        "Recherche de pièces détachées",
+        "Marketplace de véhicules",
+        "Approvisionnement B2B fournisseurs",
+        "Intégration d'API tierces"
+      ]
+    },
+    "pstore": {
+      "name": "pStore",
+      "tagline": "Suite e-commerce complète",
+      "description": "Un portail e-commerce complet avec des espaces séparés pour les clients, les fournisseurs et l'administration, facturation automatisée, suivi du cycle de vie des commandes et service après-vente.",
+      "highlights": [
+        "Espaces client, fournisseur et administrateur",
+        "Facturation automatisée",
+        "Suivi du cycle de vie des commandes",
+        "Service après-vente"
+      ]
+    },
+    "netcash": {
+      "name": "NetCash",
+      "tagline": "Portail de forfaits internet télécom",
+      "description": "Une solution web spécialisée dans la vente et l'achat de forfaits internet, le suivi des stocks et les workflows de facturation automatisés des clients.",
+      "highlights": [
+        "Vente et achat de forfaits internet",
+        "Suivi des stocks",
+        "Facturation client automatisée"
+      ]
+    },
+    "ghariyani": {
+      "name": "Ghariyani PROF",
+      "tagline": "ERP pour centre de formation",
+      "description": "Un système complet de gestion éducative couvrant les inscriptions des étudiants, les portails parents, la distribution de cours en ligne, les emplois du temps des enseignants et les annonces administratives.",
+      "highlights": [
+        "Inscription des étudiants",
+        "Portails parents",
+        "Distribution de cours en ligne",
+        "Emplois du temps et annonces"
+      ]
+    }
+  },
+  "education": {
+    "eyebrow": "Formation",
+    "title": "Formation et langues",
+    "intro": "Parcours académique et langues de travail.",
+    "degrees": {
+      "bsc": "Licence en informatique",
+      "hs": "Baccalauréat en mathématiques"
+    },
+    "languagesTitle": "Langues",
+    "levels": {
+      "native": "Langue maternelle",
+      "professional": "Maîtrise professionnelle / technique",
+      "working": "Maîtrise professionnelle courante"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Travaillons ensemble.",
+    "intro": "Un projet, un poste ou une question technique ? Envoyez-moi un message — je réponds généralement sous 24 à 48 heures.",
+    "invite": "Je suis toujours ouvert à discuter de nouvelles opportunités, de projets intéressants, ou simplement pour échanger.",
+    "detailsTitle": "Me contacter",
+    "formTitle": "Envoyer un message",
+    "name": "Nom",
+    "namePlaceholder": "Votre nom",
+    "email": "E-mail",
+    "emailPlaceholder": "vous@exemple.com",
+    "message": "Message",
+    "messagePlaceholder": "Parlez-moi de votre projet…",
+    "send": "Envoyer le message",
+    "note": "Ce formulaire ouvre votre client de messagerie. Aucune donnée n'est envoyée à un serveur.",
+    "errors": {
+      "name": "Veuillez indiquer votre nom.",
+      "email": "Veuillez saisir une adresse e-mail valide.",
+      "message": "Veuillez écrire un message (10 caractères minimum)."
+    },
+    "success": "Votre client de messagerie devrait s'ouvrir. Sinon, écrivez directement à aymensmida122@gmail.com.",
+    "direct": "Ou écrivez-moi directement"
+  },
+  "footer": {
+    "tagline": "Développeur Full Stack Senior — Laravel, PHP, Vue.js.",
+    "quick": "Liens rapides",
+    "elsewhere": "Ailleurs",
+    "rights": "Tous droits réservés.",
+    "built": "Conçu et développé avec soin."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  }
+}

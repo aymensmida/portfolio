@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Aymen Smida — Senior Full Stack Developer">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#1d272f" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b1014"/>
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="630" fill="url(#fade)"/>
+  <rect x="72" y="72" width="46" height="46" rx="12" fill="#5eead4" opacity="0.14"/>
+  <text x="95" y="103" fill="#5eead4" font-family="Verdana, DejaVu Sans, sans-serif" font-size="17" font-weight="700" text-anchor="middle" letter-spacing="1">AS</text>
+  <text x="72" y="215" fill="#e8eef2" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600">Aymen Smida</text>
+  <text x="72" y="285" fill="#5eead4" font-family="Verdana, DejaVu Sans, sans-serif" font-size="30" letter-spacing="0.5">Senior Full Stack Developer</text>
+  <rect x="72" y="330" width="86" height="3" fill="#5eead4"/>
+  <text x="72" y="392" fill="#a0acb7" font-family="Verdana, DejaVu Sans, sans-serif" font-size="23">Laravel · PHP · Livewire · Vue.js · MySQL · Redis</text>
+  <text x="72" y="520" fill="#8b98a4" font-family="Verdana, DejaVu Sans, sans-serif" font-size="20">7+ years building high-performance web applications</text>
+  <text x="72" y="570" fill="#5eead4" font-family="Verdana, DejaVu Sans, sans-serif" font-size="19">aymensmida.github.io/portfolio</text>
+</svg>

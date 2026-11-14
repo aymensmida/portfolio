@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Aymen Smida — Senior Full Stack Developer (Laravel)",
+    "description": "Aymen Smida is a senior full stack developer with 7+ years of experience building high-performance web applications with PHP, Laravel, Livewire, Vue.js and MySQL."
+  },
+  "common": {
+    "skip": "Skip to content",
+    "themeToLight": "Switch to light theme",
+    "themeToDark": "Switch to dark theme",
+    "language": "Language",
+    "backToTop": "Back to top",
+    "email": "Email",
+    "phone": "Phone",
+    "basedIn": "Based in",
+    "location": "Mahdia, Tunisia"
+  },
+  "nav": {
+    "primary": "Primary",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Senior Full Stack Developer · Laravel",
+    "titleLead": "I build web applications that stay",
+    "titleEm": "fast under pressure",
+    "titleEnd": ".",
+    "intro": "I'm Aymen Smida, a senior full stack developer with over 7 years of experience in the PHP/Laravel ecosystem. I build high-performance applications, design clean REST APIs, and craft interfaces that stay fast under real-world load.",
+    "ctaPrimary": "View my projects",
+    "ctaSecondary": "Download CV",
+    "photo": { "alt": "Portrait of Aymen Smida" },
+    "card": {
+      "role": "Senior Full Stack Developer",
+      "expLabel": "Experience",
+      "exp": "7+ years",
+      "focusLabel": "Focus",
+      "focus": "Backend performance & API architecture",
+      "remote": "Remote collaboration with international teams"
+    },
+    "stats": [
+      { "value": "7+", "label": "Years of experience" },
+      { "value": "6", "label": "Featured projects" },
+      { "value": "3", "label": "Languages spoken" },
+      { "value": "v7–v11", "label": "Laravel versions" }
+    ]
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Engineering that balances performance, clarity and maintainability.",
+    "p1": "I'm a senior full stack developer specializing in the PHP/Laravel ecosystem. Over the past 7+ years I've worked across agencies, freelance engagements and international remote teams, delivering web applications that have to stay fast and reliable in production.",
+    "p2": "My work sits between backend architecture and interface craft: designing relational data models, building secure RESTful APIs, and wiring reactive frontends with Livewire and Vue.js. I profile before optimizing — Redis caching, queue-driven workloads, and SQL that stays predictable as data grows.",
+    "p3": "I've collaborated with clients and cross-functional teams across Saudi Arabia and Tunisia, and I'm comfortable owning a feature from technical analysis through testing, deployment and iteration.",
+    "philosophyTitle": "How I work",
+    "philosophy": "Measure first, optimize second. Keep the data model honest, the API predictable, and the interface fast enough that nobody has to think about it.",
+    "doTitle": "What I do",
+    "do": [
+      "Backend architecture with Laravel and PHP 8",
+      "RESTful API design and third-party integrations",
+      "Performance tuning: Redis, queues and SQL optimization",
+      "Component-driven interfaces with Livewire and Vue.js"
+    ],
+    "strengthsTitle": "Strengths",
+    "strengths": [
+      "Problem-solving",
+      "Remote communication",
+      "Cross-functional collaboration",
+      "Time management",
+      "Agile / Scrum"
+    ]
+  },
+  "skills": {
+    "eyebrow": "Capabilities",
+    "title": "Skills & technologies",
+    "intro": "The stack I use to design, build and ship production web applications.",
+    "groups": {
+      "backend": "Backend & Architecture",
+      "frontend": "Frontend & UI",
+      "data": "Databases & Performance",
+      "devops": "DevOps & Methodologies",
+      "soft": "Ways of working"
+    }
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Professional experience",
+    "intro": "Seven years of building and maintaining web products, from legacy replacements to remote platform work.",
+    "roles": {
+      "tarqueem": {
+        "period": "11/2023 — Present",
+        "location": "Saudi Arabia · Remote",
+        "position": "Senior Full Stack Developer",
+        "bullets": [
+          "Architected dynamic, interactive web applications with Laravel 10/11 and Livewire.",
+          "Implemented Redis for caching and asynchronous job queues, significantly improving server execution speed.",
+          "Designed responsive interfaces handling bulk CSV uploads and real-time data charts with Highcharts.",
+          "Built and consumed secure RESTful APIs to integrate third-party services.",
+          "Enforced PHPUnit testing procedures to keep production environments stable."
+        ]
+      },
+      "freelance": {
+        "period": "12/2021 — 10/2023",
+        "location": "Mahdia, Tunisia",
+        "position": "Freelance Full Stack Web Developer",
+        "company": "Self-Employed",
+        "bullets": [
+          "Analysed technical requirements and worked directly with clients to deliver custom software.",
+          "Built full-stack applications with a PHP/Laravel backend and reactive Vue.js interfaces.",
+          "Integrated external APIs including Telegram Bot API, Google Maps API and payment gateways.",
+          "Refactored legacy codebases and optimized complex MySQL queries for faster execution."
+        ]
+      },
+      "seabels": {
+        "period": "01/2019 — 11/2021",
+        "location": "Mahdia, Tunisia",
+        "position": "Web Developer",
+        "bullets": [
+          "Designed and deployed full-featured web applications in PHP and MySQL to replace complex legacy spreadsheet workflows.",
+          "Structured relational database schemas and optimized complex SQL queries for operational data.",
+          "Developed responsive dashboard interfaces and automated PDF/Excel export modules."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Selected work",
+    "title": "Featured projects",
+    "intro": "A selection of platforms and applications designed and built over the past few years.",
+    "filters": {
+      "all": "All",
+      "laravel": "Laravel",
+      "vue": "Vue.js",
+      "php": "PHP",
+      "mysql": "MySQL"
+    },
+    "features": "Key features",
+    "live": "Live demo",
+    "empty": "No projects match this filter.",
+    "osool": {
+      "name": "Osool",
+      "tagline": "Owners association management platform",
+      "description": "A portal for property owners' associations that streamlines building management, document sharing (maintenance contracts, guarantees), operation tracking and maintenance dispatching to service providers. Developed as part of a team.",
+      "highlights": [
+        "Building and shared-facility management",
+        "Contract and document sharing",
+        "Operation tracking and maintenance requests",
+        "Service-provider dispatching"
+      ]
+    },
+    "xbootkillers": {
+      "name": "XBootkillers",
+      "tagline": "Bot protection and IP geolocation security",
+      "description": "An IP-geolocation and bot-detection solution that lets clients block bots, restrict geographic access and redirect visitors through lightweight server-side integration files.",
+      "highlights": [
+        "Bot detection and blocking",
+        "IP geolocation filtering",
+        "Visitor redirection",
+        "Lightweight server-side integration"
+      ]
+    },
+    "mecamarker": {
+      "name": "MecaMarker",
+      "tagline": "Automotive spare parts marketplace",
+      "description": "A Tunisian automotive platform connected to international mechanics APIs, featuring spare parts search, a car sales marketplace and B2B procurement interfaces for suppliers.",
+      "highlights": [
+        "Spare parts search",
+        "Car sales marketplace",
+        "Supplier B2B procurement",
+        "Third-party API integration"
+      ]
+    },
+    "pstore": {
+      "name": "pStore",
+      "tagline": "Comprehensive e-commerce suite",
+      "description": "A full-scale e-commerce portal with separate customer, supplier and admin areas, automated invoicing, order lifecycle tracking and post-purchase customer service.",
+      "highlights": [
+        "Customer, supplier and admin areas",
+        "Automated invoicing",
+        "Order lifecycle tracking",
+        "Post-purchase service"
+      ]
+    },
+    "netcash": {
+      "name": "NetCash",
+      "tagline": "Telecom internet bundle portal",
+      "description": "A specialized web solution for managing internet package sales and purchases, inventory tracking and automated client billing workflows.",
+      "highlights": [
+        "Internet package sales and purchases",
+        "Inventory tracking",
+        "Automated client billing"
+      ]
+    },
+    "ghariyani": {
+      "name": "Ghariyani PROF",
+      "tagline": "Training center ERP",
+      "description": "A comprehensive educational management system covering student enrollment, parent portals, online course distribution, faculty timetables and administrative announcements.",
+      "highlights": [
+        "Student enrollment",
+        "Parent portals",
+        "Online course distribution",
+        "Timetables and announcements"
+      ]
+    }
+  },
+  "education": {
+    "eyebrow": "Education",
+    "title": "Education & languages",
+    "intro": "Academic background and working languages.",
+    "degrees": {
+      "bsc": "Bachelor's Degree in Computer Science (Licentiate)",
+      "hs": "High School Diploma in Mathematics"
+    },
+    "languagesTitle": "Languages",
+    "levels": {
+      "native": "Native speaker",
+      "professional": "Professional / technical proficiency",
+      "working": "Professional working proficiency"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's work together.",
+    "intro": "Have a project, a role or a technical question? Send a message — I usually reply within 24 to 48 hours.",
+    "invite": "I'm always open to discussing new opportunities, interesting projects, or just saying hello.",
+    "detailsTitle": "Get in touch",
+    "formTitle": "Send a message",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project…",
+    "send": "Send message",
+    "note": "This form opens your email client. No data is sent to a server.",
+    "errors": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email address.",
+      "message": "Please write a message (at least 10 characters)."
+    },
+    "success": "Your email client should now open. If it doesn't, write to aymensmida122@gmail.com directly.",
+    "direct": "Or email me directly"
+  },
+  "footer": {
+    "tagline": "Senior Full Stack Developer — Laravel, PHP, Vue.js.",
+    "quick": "Quick links",
+    "elsewhere": "Elsewhere",
+    "rights": "All rights reserved.",
+    "built": "Designed and built with care."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to home"
+  }
+}
